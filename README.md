@@ -1,3 +1,3 @@
 # Russian roulette
 
-Let's play game
+Let's play a game
